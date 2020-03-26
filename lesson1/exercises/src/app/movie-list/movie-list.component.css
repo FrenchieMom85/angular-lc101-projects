@@ -1,8 +1,14 @@
 .movies {
     font-size: larger;
-    color: darkblue;
+    color: darkred;
+    border-width: medium;
+    border-color: black;
+    border-style: groove;
 }
 
 h3 {
     text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
 }
+

@@ -1,11 +1,15 @@
 h3 {
-   color: brown;
+   color: black;
+   text-decoration: underline;
+   font-size: 35px;
 }
 
 img {
-   size: inherit;
+   width: 40%;
+   height: auto;
 }
 
 .photos {
    text-align: center;
+   
 }
